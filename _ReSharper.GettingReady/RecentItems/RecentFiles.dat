@@ -1,0 +1,63 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="8FE22464-18E6-45A0-8DEB-133204F917EA/f:Script.fsx" caret="268" fromTop="7" />
+    <File id="24AD7D32-07FF-4AD8-901A-85F8E72CB394/f:Footwear.cs" caret="0" fromTop="0" />
+    <File id="24AD7D32-07FF-4AD8-901A-85F8E72CB394/f:Pants.cs" caret="0" fromTop="0" />
+    <File id="B20938AC-BDCA-4B4C-A24B-FBA983C686A9/f:ICommand.cs" caret="0" fromTop="0" />
+    <File id="B20938AC-BDCA-4B4C-A24B-FBA983C686A9/f:Mode.cs" caret="0" fromTop="0" />
+    <File id="B20938AC-BDCA-4B4C-A24B-FBA983C686A9/f:IDataRepository.cs" caret="146" fromTop="7" />
+    <File id="8FE22464-18E6-45A0-8DEB-133204F917EA/f:ReturnMovie.fs" caret="487" fromTop="13" />
+    <File id="08C112D9-AF66-428E-B96F-01F9B0905577/f:app.config" caret="0" fromTop="0" />
+    <File id="EAF875CA-105F-46B5-87B7-013E818B6AC4/f:CommandParser.cs" caret="106" fromTop="4" />
+    <File id="08C112D9-AF66-428E-B96F-01F9B0905577/d:Entities/f:CommandData.cs" caret="180" fromTop="8" />
+    <File id="B20938AC-BDCA-4B4C-A24B-FBA983C686A9/f:CommandResponse.cs" caret="0" fromTop="0" />
+    <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:packages.config" caret="0" fromTop="0" />
+    <File id="8FE22464-18E6-45A0-8DEB-133204F917EA/f:Globals.fs" caret="0" fromTop="0" />
+    <File id="B20938AC-BDCA-4B4C-A24B-FBA983C686A9/f:CommandQuery.cs" caret="50" fromTop="2" />
+    <File id="B20938AC-BDCA-4B4C-A24B-FBA983C686A9/f:CommandInfo.cs" caret="85" fromTop="3" />
+    <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:Program.cs" caret="2789" fromTop="24" />
+    <File id="08C112D9-AF66-428E-B96F-01F9B0905577/f:Program.cs" caret="258" fromTop="9" />
+    <File id="08C112D9-AF66-428E-B96F-01F9B0905577/d:Repositories/f:CommandRepository.cs" caret="924" fromTop="12" />
+    <File id="08C112D9-AF66-428E-B96F-01F9B0905577/f:CommandService.cs" caret="1879" fromTop="30" />
+    <File id="B20938AC-BDCA-4B4C-A24B-FBA983C686A9/f:CommandEntry.cs" caret="72" fromTop="2" />
+    <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:ICommandProcessor.cs" caret="0" fromTop="0" />
+    <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:Configuration.cs" caret="27" fromTop="0" />
+    <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:CommandProcessor.cs" caret="0" fromTop="0" />
+    <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:ConfigurationUtilities.cs" caret="0" fromTop="0" />
+    <File id="EAF875CA-105F-46B5-87B7-013E818B6AC4/f:InMemoryRepository.cs" caret="149" fromTop="5" />
+    <File id="EAF875CA-105F-46B5-87B7-013E818B6AC4/f:ServiceStackRepository.cs" caret="556" fromTop="16" />
+    <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:App.config" caret="2195" fromTop="62" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="08C112D9-AF66-428E-B96F-01F9B0905577/f:CommandService.cs" caret="19" fromTop="1" />
+    <File id="EAF875CA-105F-46B5-87B7-013E818B6AC4/f:ServiceStackRepository.cs" caret="278" fromTop="8" />
+    <File id="08C112D9-AF66-428E-B96F-01F9B0905577/f:CommandService.cs" caret="1003" fromTop="20" />
+    <File id="B20938AC-BDCA-4B4C-A24B-FBA983C686A9/f:CommandInfo.cs" caret="266" fromTop="10" />
+    <File id="B20938AC-BDCA-4B4C-A24B-FBA983C686A9/f:CommandInfo.cs" caret="0" fromTop="0" />
+    <File id="B20938AC-BDCA-4B4C-A24B-FBA983C686A9/f:CommandInfo.cs" caret="113" fromTop="5" />
+    <File id="08C112D9-AF66-428E-B96F-01F9B0905577/f:CommandService.cs" caret="791" fromTop="15" />
+    <File id="B20938AC-BDCA-4B4C-A24B-FBA983C686A9/f:CommandEntry.cs" caret="118" fromTop="9" />
+    <File id="B20938AC-BDCA-4B4C-A24B-FBA983C686A9/f:CommandEntry.cs" caret="0" fromTop="0" />
+    <File id="08C112D9-AF66-428E-B96F-01F9B0905577/f:CommandService.cs" caret="538" fromTop="11" />
+    <File id="08C112D9-AF66-428E-B96F-01F9B0905577/f:CommandService.cs" caret="1509" fromTop="14" />
+    <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:App.config" caret="2547" fromTop="24" />
+    <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:App.config" caret="2458" fromTop="24" />
+    <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:Program.cs" caret="348" fromTop="10" />
+    <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:App.config" caret="154" fromTop="3" />
+    <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:Configuration.cs" caret="4354" fromTop="15" />
+    <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:Configuration.cs" caret="3596" fromTop="10" />
+    <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:Configuration.cs" caret="3751" fromTop="15" />
+    <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:Configuration.cs" caret="3894" fromTop="20" />
+    <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:Configuration.cs" caret="3461" fromTop="14" />
+    <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:Configuration.cs" caret="694" fromTop="19" />
+    <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:Configuration.cs" caret="585" fromTop="16" />
+    <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:Program.cs" caret="107" fromTop="3" />
+    <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:Program.cs" caret="1872" fromTop="7" />
+    <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:Program.cs" caret="1431" fromTop="1" />
+    <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:Program.cs" caret="1950" fromTop="11" />
+    <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:Program.cs" caret="2725" fromTop="11" />
+    <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:App.config" caret="2195" fromTop="24" />
+    <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:Configuration.cs" caret="27" fromTop="0" />
+    <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:ICommandProcessor.cs" caret="0" fromTop="0" />
+  </RecentEdits>
+</RecentFiles>

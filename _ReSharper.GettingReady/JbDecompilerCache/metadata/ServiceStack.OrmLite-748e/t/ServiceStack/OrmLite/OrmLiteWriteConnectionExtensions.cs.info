@@ -1,0 +1,18 @@
+﻿Code version: 6.1.1000.82
+Assembly name ServiceStack.OrmLite, Version=3.9.32.0, Culture=neutral, PublicKeyToken=null mvid {f5a24e38-4ff0-455b-868d-ede2640d9c77}
+* ref mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {00788fed-9041-4db2-ab5b-0952a06515b1}
+* ref ServiceStack.Interfaces, Version=3.9.32.0, Culture=neutral, PublicKeyToken=null
+  mvid {791e56ad-177b-4c58-abed-e114a7a46640}
+* ref System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {9011597a-84fe-42b4-8af8-cd8f40f56a0a}
+* ref System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {1ece5c33-ce63-4e5f-876e-7a1e97f239e1}
+* ref System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {a8f2a470-6b8d-452c-bb83-16650431d276}
+* ref ServiceStack.Text, Version=3.9.32.0, Culture=neutral, PublicKeyToken=null
+  mvid {5ce40c30-8717-46d5-9fad-ae13b77b68bb}
+* ref ServiceStack.Common, Version=3.9.32.0, Culture=neutral, PublicKeyToken=null
+  mvid {aae4bdfa-bba1-4648-96df-806c21c2c937}
+* ref System.ComponentModel.DataAnnotations, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  mvid {08b7873b-0bff-44d0-ad31-076363f59dae}

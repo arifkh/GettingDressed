@@ -1,0 +1,20 @@
+﻿Code version: 6.1.1000.82
+Assembly name ServiceStack.OrmLite.SqliteNET, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null mvid {a93beb7e-f9ff-425c-8b4a-1807b2dc56d1}
+* ref ServiceStack.OrmLite, Version=3.9.32.0, Culture=neutral, PublicKeyToken=null
+  mvid {f5a24e38-4ff0-455b-868d-ede2640d9c77}
+* ref mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {fcb9dac8-ae3a-4886-93b0-f4cd5b0db0be}
+* ref System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {22386941-a5a1-4820-a07c-ea20ca99b8d4}
+* ref System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {c08d55d3-6463-439d-b112-60f6502ec141}
+* ref mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {fcb9dac8-ae3a-4886-93b0-f4cd5b0db0be}
+* ref ServiceStack.Text, Version=3.9.32.0, Culture=neutral, PublicKeyToken=null
+  mvid {5ce40c30-8717-46d5-9fad-ae13b77b68bb}
+* ref System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {22386941-a5a1-4820-a07c-ea20ca99b8d4}
+* ref System.Data.SQLite, Version=1.0.82.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139
+  mvid {eefb30cc-6fbf-497f-b038-e9d5cf116d5f}
+* ref System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {c08d55d3-6463-439d-b112-60f6502ec141}

@@ -1,0 +1,12 @@
+﻿Code version: 6.1.1000.82
+Assembly name ServiceStack.Interfaces, Version=3.9.32.0, Culture=neutral, PublicKeyToken=null mvid {791e56ad-177b-4c58-abed-e114a7a46640}
+* ref mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {00788fed-9041-4db2-ab5b-0952a06515b1}
+* ref System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {1ece5c33-ce63-4e5f-876e-7a1e97f239e1}
+* ref System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {9011597a-84fe-42b4-8af8-cd8f40f56a0a}
+* ref System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {a8f2a470-6b8d-452c-bb83-16650431d276}
+* ref System.Runtime.Serialization, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {bce07a99-4cbf-4627-9359-3eef9b76e04d}

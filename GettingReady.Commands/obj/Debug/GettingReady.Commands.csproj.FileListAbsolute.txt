@@ -1,0 +1,5 @@
+C:\dev\Prototypes\GettingReady\bin\GettingReady.Commands.dll
+C:\dev\Prototypes\GettingReady\bin\GettingReady.Commands.pdb
+C:\dev\Prototypes\GettingReady\GettingReady.Commands\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\Prototypes\GettingReady\GettingReady.Commands\obj\Debug\GettingReady.Commands.dll
+C:\dev\Prototypes\GettingReady\GettingReady.Commands\obj\Debug\GettingReady.Commands.pdb

@@ -1,0 +1,10 @@
+﻿Code version: 6.1.1000.82
+Assembly name Microsoft.Practices.Unity, Version=2.1.505.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35 mvid {2913465b-923d-4436-b3c7-21b9dbd49571}
+* ref mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {00788fed-9041-4db2-ab5b-0952a06515b1}
+* ref Microsoft.Practices.ServiceLocation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  mvid {f7f2f2c3-6a78-4a41-bfcc-ce4b7dfd209c}
+* ref System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {1ece5c33-ce63-4e5f-876e-7a1e97f239e1}
+* ref System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {a8f2a470-6b8d-452c-bb83-16650431d276}

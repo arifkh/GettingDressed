@@ -1,0 +1,13 @@
+C:\dev\Prototypes\GettingReady\GettingReady.Core\bin\Debug\GettingReady.Core.dll
+C:\dev\Prototypes\GettingReady\GettingReady.Core\bin\Debug\GettingReady.Core.pdb
+C:\dev\Prototypes\GettingReady\GettingReady.Core\bin\Debug\GettingReady.Model.dll
+C:\dev\Prototypes\GettingReady\GettingReady.Core\bin\Debug\GettingReady.Model.pdb
+C:\dev\Prototypes\GettingReady\GettingReady.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\Prototypes\GettingReady\GettingReady.Core\obj\Debug\GettingReady.Core.dll
+C:\dev\Prototypes\GettingReady\GettingReady.Core\obj\Debug\GettingReady.Core.pdb
+C:\dev\Prototypes\GettingReady\GettingReady.Core\bin\Debug\ServiceStack.Common.dll
+C:\dev\Prototypes\GettingReady\GettingReady.Core\bin\Debug\ServiceStack.Interfaces.dll
+C:\dev\Prototypes\GettingReady\GettingReady.Core\bin\Debug\ServiceStack.Text.dll
+C:\dev\Prototypes\GettingReady\GettingReady.Core\bin\Debug\ServiceStack.Common.xml
+C:\dev\Prototypes\GettingReady\GettingReady.Core\bin\Debug\ServiceStack.Interfaces.xml
+C:\dev\Prototypes\GettingReady\GettingReady.Core\bin\Debug\ServiceStack.Text.xml

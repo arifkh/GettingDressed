@@ -1,0 +1,5 @@
+C:\dev\Prototypes\GettingReady\bin\GettingReady.Model.dll
+C:\dev\Prototypes\GettingReady\bin\GettingReady.Model.pdb
+C:\dev\Prototypes\GettingReady\GettingReady.Model\obj\Debug\GettingReady.Model.dll
+C:\dev\Prototypes\GettingReady\GettingReady.Model\obj\Debug\GettingReady.Model.pdb
+C:\dev\Prototypes\GettingReady\GettingReady.Model\obj\Debug\ResolveAssemblyReference.cache

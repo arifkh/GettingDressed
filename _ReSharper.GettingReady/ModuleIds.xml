@@ -1,0 +1,17 @@
+<Modules>
+  <Module PersistentId="B20938AC-BDCA-4B4C-A24B-FBA983C686A9" ModuleId="GettingReady.Model" />
+  <Module PersistentId="24AD7D32-07FF-4AD8-901A-85F8E72CB394" ModuleId="GettingReady.Commands" />
+  <Module PersistentId="55427454-FF75-4C76-96C6-1FC1574591D1" ModuleId="ConsoleApp" />
+  <Module PersistentId="3BBD6CA3-776D-4BDB-A835-B33522DAB2E4" ModuleId="GettingReady.Service" />
+  <Module PersistentId="EAF875CA-105F-46B5-87B7-013E818B6AC4" ModuleId="GettingReady.Core" />
+  <Module PersistentId="ServiceStack.Interfaces, Version=3.9.32.0, Culture=neutral, PublicKeyToken=null" ModuleId="ServiceStack.Interfaces" />
+  <Module PersistentId="ServiceStack.Common, Version=3.9.32.0, Culture=neutral, PublicKeyToken=null" ModuleId="ServiceStack.Common" />
+  <Module PersistentId="85FDAEFE-1D08-42DF-9C65-422A364E5A99" ModuleId="GettingReady.Services.Data" />
+  <Module PersistentId="ServiceStack.OrmLite, Version=3.9.32.0, Culture=neutral, PublicKeyToken=null" ModuleId="ServiceStack.OrmLite" />
+  <Module PersistentId="9045DA0E-A372-4CBF-8189-38836B688040" ModuleId="GettingReady.ServStack.Core" />
+  <Module PersistentId="08C112D9-AF66-428E-B96F-01F9B0905577" ModuleId="GettingReady.ServStack.Service" />
+  <Module PersistentId="ServiceStack, Version=3.9.32.0, Culture=neutral, PublicKeyToken=null" ModuleId="ServiceStack" />
+  <Module PersistentId="ServiceStack.OrmLite.SqliteNET, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" ModuleId="ServiceStack.OrmLite.SqliteNET" />
+  <Module PersistentId="Microsoft.Practices.Unity, Version=2.1.505.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="Microsoft.Practices.Unity" />
+  <Module PersistentId="System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.Configuration" />
+</Modules>

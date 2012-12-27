@@ -1,0 +1,320 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="24AD7D32-07FF-4AD8-901A-85F8E72CB394/d:Properties/f:AssemblyInfo.cs" caret="0" fromTop="0" />
+      <File id="55427454-FF75-4C76-96C6-1FC1574591D1/d:Properties/f:AssemblyInfo.cs" caret="0" fromTop="0" />
+      <File id="B20938AC-BDCA-4B4C-A24B-FBA983C686A9/d:Properties/f:AssemblyInfo.cs" caret="0" fromTop="0" />
+      <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:Configuration.cs" caret="2254" fromTop="19" />
+      <File id="B20938AC-BDCA-4B4C-A24B-FBA983C686A9/f:Mode.cs" caret="0" fromTop="0" />
+      <File id="B20938AC-BDCA-4B4C-A24B-FBA983C686A9/f:IDataRepository.cs" caret="274" fromTop="11" />
+      <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:CommandParser.cs" caret="211" fromTop="10" />
+      <File id="24AD7D32-07FF-4AD8-901A-85F8E72CB394/f:Headwear.cs" caret="401" fromTop="17" />
+      <File id="B20938AC-BDCA-4B4C-A24B-FBA983C686A9/f:CannotPrintException.cs" caret="198" fromTop="9" />
+      <File id="24AD7D32-07FF-4AD8-901A-85F8E72CB394/f:Footwear.cs" caret="400" fromTop="17" />
+      <File id="24AD7D32-07FF-4AD8-901A-85F8E72CB394/f:Pants.cs" caret="396" fromTop="17" />
+      <File id="24AD7D32-07FF-4AD8-901A-85F8E72CB394/f:LeaveHome.cs" caret="378" fromTop="17" />
+      <File id="24AD7D32-07FF-4AD8-901A-85F8E72CB394/f:Shirt.cs" caret="366" fromTop="17" />
+      <File id="24AD7D32-07FF-4AD8-901A-85F8E72CB394/f:Socks.cs" caret="425" fromTop="19" />
+      <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:InMemoryRepository.cs" caret="0" fromTop="0" />
+      <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:ConfigurationUtilities.cs" caret="0" fromTop="0" />
+      <File id="24AD7D32-07FF-4AD8-901A-85F8E72CB394/f:RemovePJs.cs" caret="264" fromTop="12" />
+      <File id="B20938AC-BDCA-4B4C-A24B-FBA983C686A9/f:ICommand.cs" caret="167" fromTop="10" />
+      <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:ICommandProcessor.cs" caret="199" fromTop="7" />
+      <File id="24AD7D32-07FF-4AD8-901A-85F8E72CB394/f:Jacket.cs" caret="115" fromTop="4" />
+      <File id="8FE22464-18E6-45A0-8DEB-133204F917EA/f:Script.fsx" caret="268" fromTop="7" />
+      <File id="8FE22464-18E6-45A0-8DEB-133204F917EA/f:ReturnMovie.fs" caret="636" fromTop="14" />
+      <File id="8FE22464-18E6-45A0-8DEB-133204F917EA/f:Globals.fs" caret="146" fromTop="4" />
+      <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:App.config" caret="2246" fromTop="8" />
+      <File id="B20938AC-BDCA-4B4C-A24B-FBA983C686A9/f:ICommandInfo.cs" caret="154" fromTop="7" />
+      <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:CommandProcessor.cs" caret="914" fromTop="13" />
+      <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:CommandInfo.cs" caret="161" fromTop="8" />
+      <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:Program.cs" caret="2806" fromTop="25" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="24AD7D32-07FF-4AD8-901A-85F8E72CB394/f:Socks.cs" caret="314" fromTop="13" />
+      <File id="24AD7D32-07FF-4AD8-901A-85F8E72CB394/f:Socks.cs" caret="407" fromTop="17" />
+      <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:Program.cs" caret="1210" fromTop="22" />
+      <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:Program.cs" caret="571" fromTop="8" />
+      <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:CommandProcessor.cs" caret="1254" fromTop="11" />
+      <File id="B20938AC-BDCA-4B4C-A24B-FBA983C686A9/f:ICommand.cs" caret="176" fromTop="11" />
+      <File id="B20938AC-BDCA-4B4C-A24B-FBA983C686A9/f:ICommand.cs" caret="15" fromTop="1" />
+      <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:App.config" caret="2056" fromTop="22" />
+      <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:App.config" caret="2246" fromTop="26" />
+      <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:CommandProcessor.cs" caret="2012" fromTop="26" />
+      <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:CommandProcessor.cs" caret="1820" fromTop="19" />
+      <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:CommandProcessor.cs" caret="1820" fromTop="12" />
+      <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:CommandProcessor.cs" caret="1820" fromTop="8" />
+      <File id="55427454-FF75-4C76-96C6-1FC1574591D1/f:CommandProcessor.cs" caret="2024" fromTop="11" />
+      <File id="8FE22464-18E6-45A0-8DEB-133204F917EA/f:ReturnMovie.fs" caret="1395" fromTop="8" />
+      <File id="8FE22464-18E6-45A0-8DEB-133204F917EA/f:Script.fsx" caret="202" fromTop="4" />
+      <File id="8FE22464-18E6-45A0-8DEB-133204F917EA/f:ReturnMovie.fs" caret="1299" fromTop="18" />
+      <File id="8FE22464-18E6-45A0-8DEB-133204F917EA/f:ReturnMovie.fs" caret="1299" fromTop="18" />
+      <File id="8FE22464-18E6-45A0-8DEB-133204F917EA/f:ReturnMovie.fs" caret="1299" fromTop="18" />
+      <File id="8FE22464-18E6-45A0-8DEB-133204F917EA/f:ReturnMovie.fs" caret="1357" fromTop="17" />
+      <File id="8FE22464-18E6-45A0-8DEB-133204F917EA/f:ReturnMovie.fs" caret="1358" fromTop="16" />
+      <File id="8FE22464-18E6-45A0-8DEB-133204F917EA/f:ReturnMovie.fs" caret="60" fromTop="4" />
+      <File id="8FE22464-18E6-45A0-8DEB-133204F917EA/f:Globals.fs" caret="119" fromTop="4" />
+      <File id="8FE22464-18E6-45A0-8DEB-133204F917EA/f:ReturnMovie.fs" caret="1142" fromTop="15" />
+      <File id="8FE22464-18E6-45A0-8DEB-133204F917EA/f:ReturnMovie.fs" caret="60" fromTop="4" />
+      <File id="8FE22464-18E6-45A0-8DEB-133204F917EA/f:ReturnMovie.fs" caret="136" fromTop="7" />
+      <File id="8FE22464-18E6-45A0-8DEB-133204F917EA/f:ReturnMovie.fs" caret="610" fromTop="12" />
+      <File id="8FE22464-18E6-45A0-8DEB-133204F917EA/f:ReturnMovie.fs" caret="774" fromTop="7" />
+      <File id="8FE22464-18E6-45A0-8DEB-133204F917EA/f:ReturnMovie.fs" caret="1031" fromTop="11" />
+      <File id="8FE22464-18E6-45A0-8DEB-133204F917EA/f:ReturnMovie.fs" caret="632" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="ConsoleApp" priority="31" />
+      <Item value="if" priority="479" />
+      <Item value="name" priority="63" />
+      <Item value="else" priority="95" />
+      <Item value="new" priority="991" />
+      <Item value="ICommand`0" priority="507" />
+      <Item value="InjectionMember" priority="57" />
+      <Item value="public" priority="510" />
+      <Item value="Footwear`0" priority="127" />
+      <Item value="cmd" priority="31" />
+      <Item value="commandElement" priority="191" />
+      <Item value="var" priority="831" />
+      <Item value="in" priority="191" />
+      <Item value="static" priority="126" />
+      <Item value="class" priority="30" />
+      <Item value="String`0" priority="187" />
+      <Item value="this" priority="31" />
+      <Item value="commandsCollection" priority="96" />
+      <Item value="return" priority="1119" />
+      <Item value="string" priority="568" />
+      <Item value="null" priority="95" />
+      <Item value="foreach" priority="159" />
+      <Item value="IEnumerable" priority="158" />
+      <Item value="prevCommandElement" priority="63" />
+      <Item value="yield return" priority="31" />
+      <Item value="InjectionConstructor" priority="87" />
+      <Item value="prevCommandNames" priority="63" />
+      <Item value="ResolvedParameter" priority="30" />
+      <Item value="resolvedParams" priority="95" />
+      <Item value="ResolvedParameter&lt;ICommand&gt;" priority="28" />
+      <Item value="prevCommandName" priority="31" />
+      <Item value="Enumerable`0" priority="29" />
+      <Item value="List" priority="125" />
+      <Item value="previousCommands" priority="255" />
+      <Item value="Container" priority="351" />
+      <Item value="Object`0" priority="31" />
+      <Item value="ResolverOverride" priority="28" />
+      <Item value="ParameterOverride" priority="57" />
+      <Item value="DependencyOverride" priority="28" />
+      <Item value="typeof" priority="64" />
+      <Item value="Headwear`0" priority="31" />
+      <Item value="LeaveHome`0" priority="31" />
+      <Item value="RemovePJs`0" priority="31" />
+      <Item value="Socks`0" priority="31" />
+      <Item value="try" priority="95" />
+      <Item value="InvalidOperationException`0" priority="31" />
+      <Item value="Mode`0" priority="319" />
+      <Item value="mode" priority="485" />
+      <Item value="CommandProcessor`0" priority="189" />
+      <Item value="repository" priority="64" />
+      <Item value="private" priority="287" />
+      <Item value="_repository" priority="224" />
+      <Item value="bool" priority="95" />
+      <Item value="int" priority="95" />
+      <Item value="Guid`0" priority="31" />
+      <Item value="true" priority="319" />
+      <Item value="keyCode" priority="192" />
+      <Item value="commandName" priority="96" />
+      <Item value="throw" priority="95" />
+      <Item value="ApplicationException" priority="28" />
+      <Item value="_container" priority="160" />
+      <Item value="command" priority="576" />
+      <Item value="void" priority="63" />
+      <Item value="UnityContainer`0" priority="31" />
+      <Item value="container" priority="64" />
+      <Item value="commandInfo" priority="385" />
+      <Item value="commandTypeName" priority="64" />
+      <Item value="previousCommandNames" priority="32" />
+      <Item value="ICommandInfo`0" priority="95" />
+      <Item value="false" priority="63" />
+      <Item value="Type`0" priority="31" />
+      <Item value="TransientLifetimeManager" priority="28" />
+      <Item value="Dictionary" priority="63" />
+      <Item value="List&lt;string&gt;" priority="28" />
+      <Item value="finally" priority="31" />
+      <Item value="_commandsAlreadyRun" priority="191" />
+      <Item value="object" priority="60" />
+      <Item value="Dictionary&lt;string,object&gt;" priority="28" />
+      <Item value="ContainerControlledLifetimeManager" priority="57" />
+      <Item value="ICommandProcessor`0" priority="158" />
+      <Item value="IDataRepository`0" priority="62" />
+      <Item value="InMemoryRepository`0" priority="31" />
+      <Item value="commandProcessor" priority="127" />
+      <Item value="key" priority="31" />
+      <Item value="typeName" priority="31" />
+      <Item value="readonly" priority="31" />
+      <Item value="_commandInfos" priority="96" />
+      <Item value="Dictionary&lt;int,ICommandInfo&gt;" priority="28" />
+      <Item value="x" priority="191" />
+      <Item value="do" priority="31" />
+      <Item value="StringComparison`0" priority="31" />
+      <Item value="Console`0" priority="127" />
+      <Item value="CommandParser" priority="29" />
+      <Item value="commandParser" priority="63" />
+      <Item value="Hot" priority="16" />
+      <Item value="InvalidSeasonalOperation`0" priority="95" />
+      <Item value="base" priority="127" />
+      <Item value="CannotPrintException`0" priority="159" />
+      <Item value="message" priority="31" />
+      <Item value="catch" priority="31" />
+      <Item value="exception" priority="32" />
+      <Item value="ex" priority="63" />
+      <Item value="break" priority="63" />
+      <Item value="ArrayList" priority="28" />
+      <Item value="previousCommand" priority="63" />
+      <Item value="CanPrint`0" priority="63" />
+      <Item value="CannotPrintException" priority="28" />
+      <Item value="Cold" priority="33" />
+      <Item value="AsyncCallback`0" priority="95" />
+      <Item value="using" priority="30" />
+      <Item value="System" priority="30" />
+      <Item value="WebRequest`0" priority="31" />
+      <Item value="req" priority="31" />
+      <Item value="Task`0" priority="127" />
+      <Item value="WebResponse`0" priority="31" />
+      <Item value="HttpWebResponse`0" priority="32" />
+      <Item value="getResponseTask" priority="31" />
+      <Item value="resp" priority="31" />
+      <Item value="result" priority="31" />
+      <Item value="ICommandAsync`0" priority="289" />
+      <Item value="content" priority="31" />
+      <Item value="is" priority="159" />
+      <Item value="commandAsync" priority="64" />
+      <Item value="Print`0" priority="63" />
+      <Item value="as" priority="63" />
+      <Item value="txt" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ConsoleApp.CommandElement">
+      <Item value="PreviousCommands" priority="161" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ConsoleApp.PreviousCommandsCollection">
+      <Item value="PreviousCommandNames`0" priority="53" />
+      <Item value="GetNames`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ConsoleApp.PreviousCommandElement">
+      <Item value="Name" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToString`0" priority="26" />
+      <Item value="Where`1" priority="26" />
+      <Item value="Count`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="80" />
+      <Item value="ToArray`0" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Practices.Unity.UnityContainer">
+      <Item value="RegisterType`0" priority="107" />
+      <Item value="Configure`1" priority="26" />
+      <Item value="Resolve`1" priority="107" />
+      <Item value="RegisterType`1" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GettingReady.Model.ICommand">
+      <Item value="Print`0" priority="80" />
+      <Item value="CanPrint`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GettingReady.Model.IDataRepository">
+      <Item value="GetCommandNameFromKey`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GettingReady.Model.ICommandInfo">
+      <Item value="Name" priority="80" />
+      <Item value="KeyCode" priority="26" />
+      <Item value="PreviousCommandNames" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Type">
+      <Item value="GetType`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Clear`0" priority="26" />
+      <Item value="Add`0" priority="26" />
+      <Item value="Contains`1" priority="80" />
+      <Item value="ContainsKey`0" priority="53" />
+      <Item value="Where`1" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ConsoleApp.ICommandProcessor">
+      <Item value="RegisterDependency`0" priority="53" />
+      <Item value="Print`0" priority="26" />
+      <Item value="ClearCommandRunHistory`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Key" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Equals`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.StringComparison">
+      <Item value="InvariantCultureIgnoreCase" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="ReadLine`0" priority="26" />
+      <Item value="Write`0" priority="80" />
+      <Item value="WriteLine`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ConsoleApp.CommandParser">
+      <Item value="Keys" priority="26" />
+      <Item value="CommandMode" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@GettingReady.Model.Mode">
+      <Item value="Hot" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GettingReady.Model.InvalidSeasonalOperation">
+      <Item value="Message" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GettingReady.Model.CannotPrintException">
+      <Item value="StackTrace" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.WebRequest">
+      <Item value="Create`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.HttpWebRequest">
+      <Item value="Method" priority="26" />
+      <Item value="BeginGetResponse`0" priority="27" />
+      <Item value="EndGetResponse`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Tasks.Task`1">
+      <Item value="Factory" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Tasks.TaskFactory`1">
+      <Item value="FromAsync`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.HttpWebResponse">
+      <Item value="Headers" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebHeaderCollection">
+      <Item value="GetValues`0" priority="26" />
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GettingReady.Model.ICommandAsync">
+      <Item value="Print`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

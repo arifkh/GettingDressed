@@ -1,0 +1,1 @@
+﻿C:\dev\Prototypes\GettingReady\GettingReady.Service\bin\ServiceStack.OrmLite.dll

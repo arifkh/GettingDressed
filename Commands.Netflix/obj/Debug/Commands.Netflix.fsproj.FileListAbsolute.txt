@@ -1,0 +1,6 @@
+C:\dev\Prototypes\GettingReady\bin\Commands.Netflix.dll
+C:\dev\Prototypes\GettingReady\bin\Commands.Netflix.pdb
+C:\dev\Prototypes\GettingReady\bin\Commands.Netflix.XML
+C:\dev\Prototypes\GettingReady\Commands.Netflix\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\Prototypes\GettingReady\Commands.Netflix\obj\Debug\Commands.Netflix.dll
+C:\dev\Prototypes\GettingReady\Commands.Netflix\obj\Debug\Commands.Netflix.pdb

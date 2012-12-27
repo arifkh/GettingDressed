@@ -1,0 +1,4 @@
+C:\dev\Prototypes\Redbox.Unity\bin\Redbox.Model.dll
+C:\dev\Prototypes\Redbox.Unity\bin\Redbox.Model.pdb
+C:\dev\Prototypes\Redbox.Unity\Redbox.Model\obj\Debug\Redbox.Model.dll
+C:\dev\Prototypes\Redbox.Unity\Redbox.Model\obj\Debug\Redbox.Model.pdb

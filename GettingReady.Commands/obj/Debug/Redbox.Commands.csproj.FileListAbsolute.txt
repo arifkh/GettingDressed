@@ -1,0 +1,5 @@
+C:\dev\Prototypes\Redbox.Unity\bin\Redbox.Commands.dll
+C:\dev\Prototypes\Redbox.Unity\bin\Redbox.Commands.pdb
+C:\dev\Prototypes\Redbox.Unity\Redbox.Commands\obj\Debug\Redbox.Commands.dll
+C:\dev\Prototypes\Redbox.Unity\Redbox.Commands\obj\Debug\Redbox.Commands.pdb
+C:\dev\Prototypes\Redbox.Unity\Redbox.Commands\obj\Debug\ResolveAssemblyReference.cache
